@@ -1,3 +1,7 @@
+import {
+    Link
+  } from "react-router-dom";
+
 function Hero() {
     return (
         <header className="hero" role="banner">

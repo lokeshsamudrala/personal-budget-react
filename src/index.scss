@@ -395,7 +395,7 @@ nav.menu ul li a:hover  {
 header.hero {
   height: 350px;
   background-color: #b4c6f0;
-  background-image: url('/public/bg.png');
+  background-image: url('../public/bg.png');
   background-size: 400px;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -450,4 +450,9 @@ header.hero h2 {
   .container .div.text-box {
       margin: 10px;
   }
+}
+
+.chart-container{
+height: 400px;
+width: 400px;
 }
